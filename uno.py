@@ -16,3 +16,4 @@ if __name__ == "__main__":
     main()
 
 print("Im gay")
+print("im not gay")
